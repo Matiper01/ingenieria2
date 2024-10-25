@@ -15,6 +15,7 @@ public class IdS2_TurnosDrAmado {
      */
     public static void main(String[] args) {
         System.out.println("Hello World XD");
+        System.out.println("NO SE");
     }
     
 }
